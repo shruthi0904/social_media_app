@@ -1,0 +1,12 @@
+# Social Media App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+<br/>
+
+* Login/SignIn & Google SignIn Page
+* Create posts
+* Like posts
+* Comment Posts
+* Delete Posts
